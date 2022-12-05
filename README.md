@@ -3,8 +3,6 @@
 - 🏓 I have passion for cooking 🍳, photography 📷, martial arts 🥋 and scuba diving 🤿
 - 🦄 I don't believe in unicorns, neither in "fullstack" roles.
 - 🌎 I worked in different industry and sectors, last but not least I was the Frontend Lead in Planetly(https://www.planetly.com/) 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/pater/)
 
 <!---
