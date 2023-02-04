@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend / backend development and engineering management 
 - 🏓 I have passion for cooking 🍳, photography 📷, martial arts 🥋 and scuba diving 🤿
 - 🦄 I don't believe in unicorns, neither in "fullstack" roles.
-- 🌎 I worked in different industry and sectors, last but not least I was the Frontend Lead in Planetly(https://www.planetly.com/) 
+- 🌎 I worked in different industry and sectors, last but not least I was the Frontend Lead in Planetly(https://www.planetly.com/) and previously for the MSX Mwise Project(https://www.msxi.com/en/mwise/) 
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/pater/)
 
 <!---
