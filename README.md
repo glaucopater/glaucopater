@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @glaucopater
-- 👀 I’m interested in frontend / backend development and engineering management 
+- 👋 Hi, I’m Glauco
+- 👀 I'm interested in frontend / backend development and engineering management 
 - 🏓 I have passion for cooking 🍳, photography 📷, martial arts 🥋 and scuba diving 🤿
-- 🦄 I don't believe in unicorns, neither in "fullstack" roles.
-- 🌎 I worked in different industries and sectors, last but not least I was the Frontend Lead in Planetly(https://www.planetly.com/) and previously for the MSX Mwise Project(https://www.msxi.com/en/mwise/) 
+- 🌎 I worked in different industries and sectors: 
+  - As Frontend Lead in Planetly (https://www.planetly.com/) 
+  - As Frontend Lead for the MSX Mwise Project (https://www.msxi.com/en/mwise/) 
+  - As Maintenance Lead in Avanade (https://www.avanade.com/en)
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/pater/)
 
 <!---
