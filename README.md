@@ -12,4 +12,4 @@ glaucopater/glaucopater is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glaucopater)](https://github.com/glaucopater/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glaucopater&theme=github-compact)](https://github.com/glaucopater/github-readme-activity-graph)
