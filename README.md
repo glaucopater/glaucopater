@@ -4,7 +4,7 @@
 - 🌎 I worked in different industries and sectors:
   - Frontend Lead & Engineering Manager in [Planetly](https://web.archive.org/web/20230605040410/https://www.planetly.com/) 
   - Frontend Lead for the [MSX Mwise Project](https://www.msxi.com/en/mwise/) 
-  - Maintenance Lead in [Avanade](https://www.avanade.com/en)
+  - Delivery and Maintenance Lead in [Avanade](https://www.avanade.com/en) and [Accenture](https://www.accenture.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pater/)
 
 <!---
